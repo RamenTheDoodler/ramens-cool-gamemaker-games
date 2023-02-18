@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_display_cursor": true,
+  "option_operagx_editUrl": "https://create.gx.games/game/cb3e80d8-2aec-4eed-94e8-168df536268f/edit",
+  "option_operagx_game_name": "Dusk Chucks a Waffle at Jason",
+  "option_operagx_guid": "cb3e80d8-2aec-4eed-94e8-168df536268f",
+  "option_operagx_internalShareUrl": "",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_next_version": "1.0.0.1",
+  "option_operagx_publicShareUrl": "",
+  "option_operagx_scale": 0,
+  "option_operagx_team_id": "3a770010-34f0-4b72-9528-9b49ce296285",
+  "option_operagx_team_name": "RamenTheDoodler studio",
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_version": "1.0.0.0",
+}
